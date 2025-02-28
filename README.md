@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/linkstackorg/linkstack/releases/latest/download/linkstack.zip"><img src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/badges/png/download_latest.png" alt="Download latest" width="380" ></a>
+  <a href="https://github.com/acrisign/LinkSign/archive/refs/heads/main.zip"><img src="https://raw.githubusercontent.com/LinkStackOrg/branding/main/badges/png/download_latest.png" alt="Download latest" width="380" ></a>
     <br>
 	<a href="https://github.com/linkstackorg/linkstack/releases"><img alt="GitHub release (latest by date)" src="https://img.lss.ovh/github/v/release/JulianPrieber/LittleLink-Custom?label=Latest%20release"></a>
 </p>
